@@ -1,0 +1,6 @@
+com\simpleform\pages\ErrorPage.class
+com\simpleform\pages\LoginPage.class
+com\simpleform\pages\HomePage.class
+com\simpleform\pages\RegisterPage.class
+com\simpleform\SimpleFormApplicationTests.class
+com\simpleform\pages\PersonalPage.class
